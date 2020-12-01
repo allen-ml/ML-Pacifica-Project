@@ -1,4 +1,4 @@
-﻿Name,Length,Thickness,Tension,Moment,Shear,Rebar Size,Rebar Spacing,Layers,DCR
+﻿Name,Length,Thickness,Nu,M,V,Size,Spacing,Layers,DCR
 ROOF_D0-1,552,7.60,23.9,899.7,370.8,4,24,1,0.44
 ROOF_X2-1,138,7.60,-25.1,171.7,90.1,4,48,1,0.50
 ROOF_X3-1,252,7.60,-94.6,556.5,240.2,5,24,1,0.63
